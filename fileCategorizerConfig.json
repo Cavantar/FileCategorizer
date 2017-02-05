@@ -1,0 +1,8 @@
+{
+    "dirCategories" :
+    [
+	{"dirName" : "xVid" , "dirRegex" : ["\\.avi", "\\.mkv", "\\.mov", "\\.mp4"]},
+	{"dirName" : "xText", "dirRegex" : ["\\.txt", "\\.nfo", "\\.log"]}
+    ],
+    "uncategorizedDir" : "xOther"
+}
